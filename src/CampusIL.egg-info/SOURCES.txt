@@ -9,3 +9,6 @@ src/CampusIL.egg-info/SOURCES.txt
 src/CampusIL.egg-info/dependency_links.txt
 src/CampusIL.egg-info/requires.txt
 src/CampusIL.egg-info/top_level.txt
+src/campusil/__init__.py
+src/campusil/func_families.py
+src/campusil/utils.py
